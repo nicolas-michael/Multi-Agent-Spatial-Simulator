@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/GUI/GridPanel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/GUI/CellPanel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/GUI/Frame.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/Connection/MASSCppConnection.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/Connection/Connection.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/edu/uw/bothell/css/dsl/MASS/MassData/PlaceData.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/edu/uw/bothell/css/dsl/MASS/MassData/InitialData.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/edu/uw/bothell/css/dsl/MASS/MassData/MASSPacket.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/edu/uw/bothell/css/dsl/MASS/MassData/MASSRequest.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/edu/uw/bothell/css/dsl/MASS/MassData/UpdatePackage.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/Connection/MASSJavaConnection.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/edu/uw/bothell/css/dsl/MASS/MassData/AgentData.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/GUI/SplashDialog.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/GUI/ConnectionSettingsDialog.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/Debugger/src/edu/uw/bothell/css/dsl/MASS/MassData/Preferences.java</file>
+        </group>
+    </open-files>
+</project-private>
